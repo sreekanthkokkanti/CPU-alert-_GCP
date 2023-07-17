@@ -1,13 +1,11 @@
 {
   "type": "service_account",
-  "project_id": "gcp-practice-392604",
-  "private_key_id": "396eb7215400a1de70014f62e0fd779e635159c1",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDBxmrFJRZlujq+\ngiteTaPduY6X1iUiW2Taj3A0asyIPgZQKldH0ayc9kBDvvXCJVLUfRB8ztbfujg+\nOs0qV3XtcGJhuuFuunwNAoqhICPLfrv0wtf4+b1gNS6k6NC2N71JpnJUXmAYiIoT\novHWAWFZYI3aa1/O7dIa0VWiriyzythGOXTqEVQYsxLQezAfpCXPH5+G8CG87Zi2\n3LnMqQJL6sWk7Ae4AABP4KW5w73i4E1bJsU+09lZLPb0zI08b/nSJFAXkmsYqexE\nUYhw/LUZ4Mt2BofHQovUUlys1Bl8rXp7q5MREdntiBjqSA9veMSc/EvRJfEmmxK+\nr7Ezplt/AgMBAAECggEAPl9GqNSKRA5QsFen6//jug/rRRZp94ghi3RWMpkZ4tTM\nJWurknN8Mz3Ua7oA0xA+fCURdIsDgRoo1mcI+RMT42ykTj7gJ0shePKTes+klfDi\nQSOibwK8IUadD/ncjHqelCFedae3GM6CW1W8sBzbn/BDWMXtHedRFM7C2M1lmC0n\nA2VCcOaJfMzUFZpf6Jnwi6wa1/mK+UO7v9ilDsyKlGdFTXOqHfQoaa+2WsCcJ+n+\n1M2XLXK4bz/xi1APAMOwZdDTKkIv7JGsRvqtTTPAp1hDsY7Hqx6aqoHgAXlNM+LG\nk83Oc7lH4MtFfKiSwYIDf3XONpY7CxZtQNwyJlmMEQKBgQD/Avqj0Q3DRMSRX8rO\n2uE6ex10kmZNh/EihS+R+7+XqMLo1g/CDs7zowo2kd6LzdkfAq2erYRyVpBFQixl\nOzJHGVFKncNij4d5YH3mqwzdd2K/EP/OJB5q26zrBGBGBKOq9NNNAsWw6UnLe6vo\nLNiaJVRzhaXyjTxxTVQF+2IQpwKBgQDChq3xunQqw3jUDdCbGExp3tsY3DCSiBT/\n6ebcgmlell3bduC+RNbURVgKqulSpc27+3w+1psFRUfFmNSHkx1IM66joCo9+9Uy\nEN/fkasVefkBcDi+yLKK2lM1AyZnra2GrpWMlNXz0DRGayaN+YxJqYd4nP9DytQc\na9fT6nghaQKBgQCnQ2L2lCZ8z9xGphg2OabFXv9g+K2VaPcm90jObdurNAw0AEPx\nuxjPAT+vr1nTRT+GcZFDpPhcrp6ObusDsyI1NEv3ryb6vL3VRQ8Pf14+3RGt1Q6U\nPWieGlx/Ai3LfzuC5Ha76neUpE+84e9NqCyiXp3X7+96+lyMzHWyPsKBvQKBgQCK\nQtmdh44L2xWlexA7PGELmteVauOnMsviPWjWcGbeUPfzBiKleh5Lj+IM6v+du7Vo\nGE5uB3D1pRFnU8IzfpAAgqNtL2j212joBfBpYor8X85phE8A43trj9Q2SL/iTyKY\nKLyoyBzuB50wM/aaULWyoallRAl3MNHkRY6I1A2AiQKBgQCSmdUPKf4rUQdjvGh3\n0syR+poGEYgHhqLGXC1/TZLYkx26Oi9JeImgdb4fB9qvl+uoztXZfWed13rALMnP\nJt+WF7R1k6D20ojPu1NN0ODP1oqdCukaTR5NVpdOkpzWy89R6QDRzra3zya79r4D\nGbFh7p4klKp5/NShyaMjqQv2Gw==\n-----END PRIVATE KEY-----\n",
-  "client_email": "sreekanth@gcp-practice-392604.iam.gserviceaccount.com",
-  "client_id": "104270398658565141792",
+  "project_id": "xxxxxxxxxxxxxxx",
+  "private_key_id": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEv
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sreekanth%40gcp-practice-392604.iam.gserviceaccount.com",
+  "client_x509_cert_url": "
   "universe_domain": "googleapis.com"
 }
